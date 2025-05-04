@@ -28,10 +28,3 @@ Com base no contexto e nas premissas de negócio, as seguintes métricas foram a
 - **Média de Idade dos Clientes por Bandeira**  
   Ajuda a traçar perfis etários por bandeira de venda, o que colabora para uma estratégia de comunicação mais personalizada.
 
----
-
-## 🛠 Como editar e salvar usando Git Bash
-
-1. **Abra o Git Bash** e vá até a pasta do seu projeto:
-   ```bash
-   cd caminho/para/seu/projeto
